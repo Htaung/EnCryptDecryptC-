@@ -1,0 +1,9 @@
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.exe.config
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.exe
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\bin\Debug\EnCryptDecrypt.pdb
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.csprojResolveAssemblyReference.cache
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.frmMain.resources
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.Properties.Resources.resources
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.csproj.GenerateResource.Cache
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.exe
+D:\Aung\MVC C# Test\EnCryptDecrypt\EnCryptDecrypt\obj\Debug\EnCryptDecrypt.pdb
